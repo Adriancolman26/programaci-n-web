@@ -1,0 +1,21 @@
+Respuesta 1:
+
+Lo que se imprimira en la consola son los parametros weight y height
+
+Respuesta 2:
+
+No se imprimira nada porque contiene un error, ya que age no esta definido por que se le cambia el nombre a personAge
+
+Respuesta 3:
+
+El atajo que nos permite recuerar el valor de un objeto es "destructuración/destructuring"
+
+const objeto = {
+    nombre: "Adrian",
+    lastName: "Colman",
+};
+
+const { nombre, lastName} = objeto;
+
+console.log(nombre, lastName);
+
