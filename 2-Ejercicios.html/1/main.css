@@ -1,0 +1,24 @@
+.head {
+  width: 20%;
+  background-color: green;
+  font-family: sans-serif;
+}
+
+.lista {
+  border: 1px solid black;
+  margin: 25px 25px 25px 25px;
+  padding: 30px 30px 30px 30px;
+}
+
+.imagen {
+  border-radius: 50px;
+}
+
+.fondo {
+  background-color: dimgrey;
+}
+
+.Centrar {
+  display: flex;
+  justify-content: space-around;
+}
