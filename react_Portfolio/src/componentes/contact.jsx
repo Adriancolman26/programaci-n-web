@@ -2,8 +2,8 @@ import React from "react";
 
 const Contact = () => (
   <section id="contact" className="contact">
-    <h2>Contacto</h2>
-    <form>
+    <h2 className="center">Contacto</h2>
+    <form className="center">
       <label htmlFor="name">Nombre:</label>
       <input type="text" id="name" name="name" required />
 

@@ -4,7 +4,7 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: #bba904;
+  color: #f3fffd;
   background-color: #242424;
 
   font-synthesis: none;
@@ -67,7 +67,7 @@ button:focus-visible {
 
 @media (max-width: 600px) {
   body {
-    background-color: rgb(47, 60, 241);
+    background-color: #07071d00;
   }
 
   .orientation {

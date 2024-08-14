@@ -2,7 +2,7 @@ import React from "react";
 
 const Testimonials = () => (
   <section id="testimonials" className="testimonials">
-    <h2>Comentarios sobre trabajo</h2>
+    <h2 className="center">Comentarios sobre trabajo</h2>
     <blockquote>
       <p>"Claro en su explicación, trabajo eficiente y rapido."</p>
       <footer>- Cliente 1</footer>
