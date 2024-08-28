@@ -13,9 +13,13 @@ const Projects = () => (
             justifyContent: "center",
           }}
         >
-          <img src="/bombonera.png" alt="" />
+          <img className="fotoproject" src="/bombonera.png" alt="" />
         </div>
-        <div>
+        <div
+          style={{
+            maxWidth: "600px",
+          }}
+        >
           <h3 className="center">Proyecto 1</h3>
           <p className="center">
             Los planos digitales para una bombonera moderna combinan diseño y
@@ -33,10 +37,21 @@ const Projects = () => (
     </div>
     <div className="project Margen">
       <div className="division">
-        <div>
-          <img src="armas.png" alt="" />
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            justifyContent: "center",
+          }}
+        >
+          <img className="fotoproject" src="armas.png" alt="" />
         </div>
-        <div>
+        <div
+          style={{
+            maxWidth: "600px",
+          }}
+        >
           <h3 className="center">Proyecto 2</h3>
           <p className="center">
             El catálogo de armas de presión de aire ofrece una variedad de

@@ -9,7 +9,8 @@ const Testimonials = () => (
     </blockquote>
     <blockquote>
       <p>
-        "Soluciona varios problemas sin que sean necesariamente de mismo campo."
+        "Soluciona varios problemas sin que sean necesariamente del mismo
+        campo."
       </p>
       <footer>- Cliente 2</footer>
     </blockquote>
